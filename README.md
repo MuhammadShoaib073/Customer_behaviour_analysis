@@ -46,12 +46,10 @@ Data approach
 Findings
 Visual insights
 
-7.Recommendations
+7. Recommendations
 Generated a polished PDF/PPT for stakeholders
 Dashboard & Results
 The final Power BI dashboard highlights:
 Key performance indicators (KPIs)
-
 Trends and relationships
-
 Actionable business insights
